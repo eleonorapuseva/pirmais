@@ -1,12 +1,3 @@
-body{
-  font-family: Arial;
-}
-p{
- text-align:left;
- padding: 3px
- width: 200px;
- font-weight: bold;
-}
 .teksts {
  display: flex;
  padding: 16px 32px 8px;
@@ -21,5 +12,10 @@ p{
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
+}
+.iesniegt{
+  border-style: solid;
+  border-radius: 30px;
+  margin-left: 10px;
 }
  
