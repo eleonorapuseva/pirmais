@@ -1,12 +1,13 @@
 .body{
   font-family: Arial;
 }
-.
-
-
-
-
-.teksts {
+.p{
+  text-align:left
+  padding: 1px;
+  widht: 300px;
+  font-weight: bold;
+}
+ .teksts {
  display: flex;
  padding: 16px 32px 8px;
  margin: 8px 12px;
