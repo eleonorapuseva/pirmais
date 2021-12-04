@@ -13,62 +13,30 @@
   padding: 1px;
   font-weight: bold;
   border: 3px solid black;
-  border-radius: 6px;
+  border-radius: 7px;
   padding: 1px;
 }
-select{
-  margin-left: 30px;
-}
-checkbox{
-  margin-left: 30px;
-}
 .vards{
-  padding-left: 7px;
-  padding-right: 7px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 .vecums{
   padding-left:0px;
   padding-right:0px;
 }
-.papildus{
+.apgusu ari javascript{
   padding-left:0px;
-  padding-right:30px;
+  padding-right:35px;
 }
-#kaste{
-  align-content:left;
-  float:center;
-  width: 25%;
-  height:75%;
-  border: 2px solid #e6e6e6;
-  padding: 7px 7px 7px 7px;
-  maring: 7px 7px 7px 7px;
-}
-button {
-  background-color: white;
-  border: 2px solid black;
+.button {
+  background-color: #ffffff;
+  border-style: 3px solid black;
   color: black;
   padding: 7px;
   text-align: center;
-  display: inline-block;
   font-weight:bold;
   margin-left: 20px;
   margin-bottom: 20px;
-}
-#form{
-  align: left;
-  padding-left:40px;
-  padding-bottom:5px;
-}
-#submit{
-  text-align: right;
-  padding-bottom:5px;
-  padding-top:5px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-hr{
-  color:black;
-  width: 90%;
 }
  .teksts {
  display: flex;
