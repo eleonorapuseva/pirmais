@@ -16,18 +16,6 @@
   border-radius: 7px;
   padding: 1px;
 }
-.vards{
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.vecums{
-  padding-left:0px;
-  padding-right:0px;
-}
-.apgusu ari javascript{
-  padding-left:0px;
-  padding-right:35px;
-}
 .button {
   background-color: #ffffff;
   border-style: 3px solid black;
@@ -35,27 +23,19 @@
   padding: 7px;
   text-align: center;
   font-weight:bold;
-  margin-left: 20px;
-  margin-bottom: 20px;
-}
- .teksts {
- display: flex;
- padding: 16px 32px 8px;
- margin: 8px 12px;
- background-color: #00ffff;
- font-family: 'Courier New', Courier, monospace;
- font-size: 32px;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 .arejKaste {
-  border-style: dotted;
-  border-color: blue;
-  background-color: lightblue;
-  padding: 10px 10px 10px 10px;
-  margin: 50px 20px 50px 20px;
+  border-style: groove;
+  padding: 20px 40px 30px 90px;
+  margin: 50px 600px 50px 800px;
 }
 .iesniegt{
-  border-style: groove;
-  border-radius: 30px;
+  border; 1px solid black;
+  border-radius: 5px;
   margin-left: 10px;
 }
  
