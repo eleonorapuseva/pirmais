@@ -2,32 +2,6 @@
   font-family: Arial;
   background-color: white;
 }
-.p{
-  text-align:left;
-  padding: 1px;
-  width: 300px;
-  font-weight: bold;
-}
-.smallspace{
-  text-align:left;
-  padding: 1px;
-  font-weight: bold;
-  border: 3px solid black;
-  border-radius: 7px;
-  padding: 1px;
-}
-.button {
-  background-color: #ffffff;
-  border-style: 3px solid black;
-  color: black;
-  padding: 7px;
-  text-align: center;
-  font-weight:bold;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
 .arejKaste {
   border-style: groove;
   padding: 20px 40px 30px 90px;
@@ -38,4 +12,3 @@
   border-radius: 5px;
   margin-left: 10px;
 }
- 
