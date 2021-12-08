@@ -19,5 +19,5 @@ img {
     max-height: 100%;
 }
 .smallspace {
-  text-align: right;
+  padding-left: 50%;
 }
