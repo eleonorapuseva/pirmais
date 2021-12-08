@@ -1,4 +1,4 @@
-.body{
+.body {
   font-family: Arial;
   background-color: white;
 }
@@ -19,5 +19,5 @@ img {
     max-height: 100%;
 }
 .smallspace {
-  padding-left: 50%;
+  margin-left: 50%;
 }
