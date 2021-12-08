@@ -4,8 +4,8 @@
 }
 .arejKaste {
   border-style: groove;
-  padding: 20px 40px 30px 90px;
-  margin: 50px 600px 50px 800px;
+  width: 50%;
+  height: 90%;
 }
 .iesniegt{
   border; 1px solid black;
