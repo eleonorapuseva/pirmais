@@ -24,6 +24,7 @@ img {
 }
 h1{
   text-align: center;
+  border-style: solid;
 }
 .vards{
   padding-right: 10px;
