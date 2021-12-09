@@ -38,5 +38,6 @@ button {
   color: black;
   padding: 7px;
   text-align: center;
+  display: inline-block;
   font-weight:bold;
 }
