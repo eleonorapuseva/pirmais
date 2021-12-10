@@ -6,8 +6,8 @@
   border-style: groove;
   width: 25%;
   height: 75%;
-  margin: 50px 600px 50px 800px;
-  padding: 20px 30px 30px 90px;
+  margin: 50px 600px 50px 600px;
+  padding: 20px 30px 30px 20px;
 }
 .iesniegt {
   border: 2px solid black;
@@ -20,7 +20,7 @@ img {
     max-height: 100%;
 }
 .smallspace {
-  margin-left: 70%;
+  margin-left: 60%;
 }
 h1{
   text-align: center;
