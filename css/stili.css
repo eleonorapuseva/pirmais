@@ -6,11 +6,8 @@
   border-style: groove;
   width: 25%;
   height: 75%;
-  margin-left: 50%;
-  padding-top: 1%;
-  padding-bottom: 1%;
-  padding-left: 1%;
-  padding-right: 1%;
+  margin: 50px 600px 50px 600px;
+  padding: 20px 30px 30px 20px;
 }
 .iesniegt {
   border: 2px solid black;
@@ -39,8 +36,8 @@ button {
   background-color: white;
   border: 2px solid black;
   color: black;
-  margin-left: 95%;
-  text-align: right;
+  padding: 7px;
+  text-align: center;
   display: inline-block;
   font-weight:bold;
   white-space: nowrap;
