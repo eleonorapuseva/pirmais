@@ -7,7 +7,9 @@
   width: 25%;
   height: 75%;
   margin: 50px 600px 50px 600px;
-  
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
 }
 .iesniegt {
   border: 2px solid black;
@@ -36,8 +38,8 @@ button {
   background-color: white;
   border: 2px solid black;
   color: black;
-  padding: 7px;
-  text-align: center;
+  padding-left: 90%;
+  text-align: right;
   display: inline-block;
   font-weight:bold;
   white-space: nowrap;
