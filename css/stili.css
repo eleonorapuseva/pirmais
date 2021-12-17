@@ -36,6 +36,7 @@ button {
   background-color: white;
   border: 2px solid black;
   color: black;
+  padding-left:90%
   padding: 7px;
   text-align: left;
   display: inline-block;
